@@ -1,3 +1,7 @@
+"""
+Functions for reading and writing ascii catalog files.
+"""
+
 import string
 import os
 import time
